@@ -1,0 +1,5 @@
+{
+  "name": "TruthSeeker AI Swarm",
+  "description": "An agentic AI dashboard where a swarm of specialized agents (Scanner, Verifier, Contextualizer, Writer) collaborate to generate investigative reports with real-time web grounding using Google Gemini API.",
+  "requestFramePermissions": []
+}
